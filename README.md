@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyaprakashkadarla&label=Profile%20views&color=0e75b6&style=flat" alt="satyaprakashkadarla" /> </p>
 
-- 🔭 I’m currently working on [Data Structures & Algorithms](https://github.com/Satyaprakashkadarla/Data-structures-Algorithms)
+- 🔭 I’m currently working on [meshery](https://github.com/Satyaprakashkadarla/meshery)
 
 - 🌱 I’m currently learning **Data Structures & Algorithms**
 
